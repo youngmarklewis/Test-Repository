@@ -1,3 +1,5 @@
 This is my first repository
 
 I'm learning JavaScript
+
+I'm also learning Python 
